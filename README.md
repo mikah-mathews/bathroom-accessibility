@@ -7,3 +7,4 @@
 * 10:30: Research Hosting (AWS?)
 * 10:50: Work on Trello Board
 * 11:20: User Research and Outreach (post on disabled discord servers + other platforms to see what options future users would like)
+* 11:45: Work on Trello Board

@@ -12,3 +12,4 @@
 * 13:45: Google Business API research
 * 14:00: Work on WireFraming for website
 * 15:00: Work on WireFraming for website
+* 16:00: Work on WireFraming and Trello board

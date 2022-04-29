@@ -10,3 +10,4 @@
 * 11:45: Work on Trello Board
 * 13:00: Research SQLLite to act as backend management
 * 13:45: Google Business API research
+* 14:00: Work on WireFraming for website

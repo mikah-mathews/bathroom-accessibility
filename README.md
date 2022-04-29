@@ -8,3 +8,5 @@
 * 10:50: Work on Trello Board
 * 11:20: User Research and Outreach (post on disabled discord servers + other platforms to see what options future users would like)
 * 11:45: Work on Trello Board
+* 13:00: Research SQLLite to act as backend management
+* 13:45: Google Business API research
